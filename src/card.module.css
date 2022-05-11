@@ -1,0 +1,38 @@
+.recipe {
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgb(71, 71, 71);
+    align-items: center;
+    display: flex;
+    margin: 20px;
+    flex-direction: column;
+    padding: 10px 10px;
+    /* background-color: rgb(163, 214, 60); */
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.75);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(0px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+  }
+  .recipe ol {
+    align-items: center;
+  }
+  h1 {
+    padding-left: 10px;
+    /* From https://css.glass */
+    background: rgba(26, 5, 255, 0.58);
+    border-radius: 10px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(0.1px);
+    -webkit-backdrop-filter: blur(0.1px);
+    border: 1px solid rgba(26, 5, 255, 0.01);
+  }
+  .recipe_img {
+    border: #000 5px solid;
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    border-radius: 15px;
+  }
+  

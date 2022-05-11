@@ -1,0 +1,68 @@
+* {
+  border-radius: 0px;
+  background: #38b6f5;
+  /* box-shadow: 20px 20px 60px #c43b00, -20px -20px 60px #ff4f00; */
+}
+
+.App {
+  font-family: Bahnschrift SemiBold;
+  /* text-align: left; */
+  height: 100vh;
+}
+.search-Form {
+  border: #000 3px solid;
+  display: flex;
+  padding: 1% 5%;
+}
+.search-bar {
+  width: 60%;
+  padding: 8px;
+  border: none;
+  background-color: rgb(226, 206, 152);
+  border: #000 5px solid;
+}
+.search-button {
+  border: #000 5px solid;
+  background-color: #9cde0d;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.RGCER{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.RGCER h2{
+  margin: auto;
+  width: 50%;
+  font-size: 100%;
+  text-align: center;
+  color:red;
+  background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.searched_recipe {
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 2% 5%;
+  padding: 5% 10%;
+  background-color: #f57138;
+}
+@media screen and (max-width: 900px) {
+  .searched_recipe {
+    margin: 2% 1%;
+    padding: unset;
+  }
+}
