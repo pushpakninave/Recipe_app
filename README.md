@@ -2,6 +2,13 @@
 
 ![ezgif-5-40ed6e6406](https://user-images.githubusercontent.com/65614791/168956317-1928f5fa-abef-4e16-b102-9d121fb54225.gif)
 
+Just hit search and you are ready to make any delicious food out there.
+This provides a world wide range of dishes from Alaska to sahara :)
+
+- ### some previews->
+
+![image](https://user-images.githubusercontent.com/65614791/168956638-d841007e-1d03-428b-9e92-14791e81e750.png)
+![image](https://user-images.githubusercontent.com/65614791/168956699-87cd196a-0737-4ec4-ad6a-b08e2215ea73.png)
 
 # Getting Started with Create React App
 
